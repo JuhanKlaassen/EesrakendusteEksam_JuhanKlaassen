@@ -6,4 +6,4 @@ Filmile saab anda nimi, "staatus", hinnang ja pausile jäämise aeg kui staatuse
 
 Filmid on algslet nähtaval ainult nende kaanepildi ja staatuse järgi. Kui kaanepildile peale vajutada pöörab see ümber ja nähtavale tuleb filmi nimi, sinu hinnang ja kustutamise nupp.
 
-![Kuvatõmmis rakendusest(image-1.png)
+![Kuvatõmmis rakendusest](image-2.png)
